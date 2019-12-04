@@ -14,13 +14,13 @@ source venv/bin/activate
 Install dependencies:
 
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Install package:
 
 ```
-pip3 install .
+pip install .
 ```
 
 Test your install with:
