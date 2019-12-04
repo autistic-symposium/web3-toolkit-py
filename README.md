@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 Install package:
 
 ```
-pip install .
+pip3 install .
 ```
 
 Test your install with:
