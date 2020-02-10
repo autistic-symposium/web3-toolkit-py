@@ -1,4 +1,4 @@
-.PHONY: clean-pyc
+.PHONY: clean-pyc clean-dit clean test dist version
 
 default: test
 
