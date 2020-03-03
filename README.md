@@ -1,4 +1,4 @@
-# ✨ Boilerplates for Python ✨ 
+# ✨ Examples and Boilerplates for Python ✨ 
 
 * [CLI with Click](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/CLI_app).
 * [CLI with Argparse](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/Argparse_app).
