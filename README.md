@@ -4,7 +4,8 @@
 * [CLI with Argparse](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/Argparse_app).
 * [Dashboards with Dash and Plot.ly](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/dash_app).
 * [Testing in Python](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/Testing).
-* [Medium examples](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/Medium_articles).
+* [Security examples](https://github.com/bt3gl/Awesome_Python_Examples/tree/master/Security_examples).
+* [Concurrence examples](https://github.com/bt3gl/Awesome_Python_Examples/tree/master/Concurrence_examples).
 
 
 
