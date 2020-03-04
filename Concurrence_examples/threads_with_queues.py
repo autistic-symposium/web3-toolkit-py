@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import time
 from queue import Queue
 from threading import Thread

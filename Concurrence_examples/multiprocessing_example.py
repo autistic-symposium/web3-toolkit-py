@@ -1,6 +1,8 @@
-import multiprocessing
+#!/usr/bin/env python3
+
 import time
 import random
+import multiprocessing
 
 
 def worker(n):

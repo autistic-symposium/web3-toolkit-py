@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import time
 from gevent.pool import Pool
 from gevent import monkey
@@ -20,4 +22,3 @@ pool.join()
 end_time = time.time()        
  
 print("Time for GreenSquirrel: %ssecs" % (end_time - start_time))
-g
