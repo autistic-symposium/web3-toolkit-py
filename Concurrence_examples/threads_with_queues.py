@@ -33,4 +33,4 @@ task_queue.join()
          
 end_time = time.time()        
  
-print("Time: %ssecs" % (end_time - start_time))
+print('Time: {} secs'.format(end_time - start_time))
