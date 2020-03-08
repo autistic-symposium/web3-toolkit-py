@@ -7,6 +7,9 @@
 * [Security examples](https://github.com/bt3gl/Awesome_Python_Examples/tree/master/Security_examples).
 * [Concurrence examples](https://github.com/bt3gl/Awesome_Python_Examples/tree/master/Concurrence_examples).
 
+### Good Python Readings
+
+* [Google Style Guide](https://google.github.io/styleguide/pyguide.html).
 
 
 ---
