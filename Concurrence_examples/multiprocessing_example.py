@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import time
 import random
 import multiprocessing
@@ -12,5 +10,5 @@ def worker(n):
 
 
 for i in range(5):
-    t = multiprocessing.Process(target=worker, args=(i,))
-    t.start()
+    p = multiprocessing.Process(target=worker, args=(i,))
+    p.start()

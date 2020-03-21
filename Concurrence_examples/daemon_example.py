@@ -7,10 +7,10 @@ import multiprocessing
 
 def daemon():
     p = multiprocessing.current_process()
-
     print('Starting: {}, {}'.format(p.name, p.pid))
+
     sys.stdout.flush()
-    time.sleep(2)
+    time.sleep(1)
     print('Exiting : {}, {}'.format(p.name, p.pid))
 
     sys.stdout.flush()
@@ -18,8 +18,8 @@ def daemon():
 
 def non_daemon():
     p = multiprocessing.current_process()
-
     print('Starting: {}, {}'.format(p.name, p.pid))
+
     sys.stdout.flush()
     print('Exiting : {}, {}'.format(p.name, p.pid))
 
