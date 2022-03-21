@@ -1,6 +1,6 @@
 # ✨ Examples and Boilerplates for Python ✨ 
 
-![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/bt3gl/Awesome_Entrepreneur) [!
+![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/bt3gl/Awesome_Entrepreneur) 
 
 * [CLI with Click](https://github.com/bt3gl-labs/Python-Boilerplates/tree/master/Click_app).
 * [CLI with Argparse](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/Argparse_app).
