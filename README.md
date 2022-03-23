@@ -11,9 +11,18 @@
 * [Concurrence examples](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/boilerplates-concurrence)
 
 
+---
+
+
 ### Small projects
 
-* [Maze puzzle]()
+* [encoding decimals](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/small-projects/enconding-decimals)
+* [finding a blob boundary](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/small-projects/finding-blob-boundary)
+* [magic pen](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/small-projects/magic-pen)
+* [maze puzzle](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/small-projects/maze-puzzle)
+* [parsing Medium posts](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/small-projects/medium)
+
+----
 
 
 ### Good  Readings
