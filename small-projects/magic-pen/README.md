@@ -1,6 +1,7 @@
-# EPen: Art + Logic Pen Language 
+# Magic pen 
 
-This program creates an interface for a digital pen for drawing, as described on [this document](https://github.com/bt3gl/PRIV-Interview_take_home_projects/blob/master/art_and_logic/2-epen/AlpcPart2-190801.pdf).
+This program creates an interface for a digital pen for drawing.
+
 
 ----
 
