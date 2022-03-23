@@ -1,0 +1,11 @@
+{
+  "name": "js",
+  "version": "0.0.1",
+  "description": "follower maze refactoring challenge in javascript",
+  "main": "index.js",
+  "author": "SoundCloud",
+  "devDependencies": {
+    "prettier": "1.18.2",
+    "eslint": "6.2.2"
+  }
+}
