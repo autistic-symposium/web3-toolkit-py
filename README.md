@@ -3,15 +3,17 @@
 
 ### Boilerplates
 
-* [CLI with Click](https://github.com/bt3gl-labs/Python-Boilerplates/tree/master/Click_app).
-* [CLI with Argparse](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/Argparse_app).
-* [Dashboards with Dash and Plot.ly](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/dash_app).
-* [Testing in Python](https://github.com/bt3gl/Awesome_Python_Boilerplates/tree/master/Testing).
-* [Security examples](https://github.com/bt3gl/Awesome_Python_Examples/tree/master/Security_examples).
-* [Concurrence examples](https://github.com/bt3gl/Awesome_Python_Examples/tree/master/Concurrence_examples).
+* [CLI with Click](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/boilerplates-click)
+* [CLI with Argparse](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/boilerplates-argparse)
+* [Dashboards with Dash and Plot.ly](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/boilerplates-dash)
+* [Testing in Python](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/boilerplates-tests)
+* [Security examples](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/boilerplates-security)
+* [Concurrence examples](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/boilerplates-concurrence)
 
 
 ### Small projects
+
+* [Maze puzzle]()
 
 
 ### Good  Readings
