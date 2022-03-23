@@ -1,6 +1,11 @@
-# Efun: Art + Logic Enconding + Decoding 
+# Enconding decimals 
 
-This program i) converts and encodes a 14-bit decimal input value to a 2-byte hexadecimal, ii) decodes hexadecimal representations to 14-bit decimal (as described in [this doc](https://github.com/bt3gl/PRIV-Interview_take_home_projects/blob/master/art_and_logic/1-efun/AlpcPart1-190801.pdf).
+This program:
+
+i) converts and encodes a 14-bit decimal input value to a 2-byte hexadecimal, 
+ii) decodes hexadecimal representations to 14-bit decimal 
+
+
 
 
 ## Installing
