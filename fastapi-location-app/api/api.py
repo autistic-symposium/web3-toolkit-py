@@ -8,7 +8,7 @@ app = FastAPI()
 @app.get("/", tags=["Root"])
 async def read_root() -> dict:
     return {
-        "message": "$CHOICES Timezone API ⏳✨. Try /docs to learn about this API"
+        "message": "Location API 🗺✨. Try /docs to learn about this API"
     }
 
 app.include_router(LocationRouter, prefix="/tzone")
