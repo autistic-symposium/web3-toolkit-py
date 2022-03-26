@@ -5,6 +5,8 @@
 
 * [FastAPI Location API deployed in Vercel](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/fastapi-location-app)
 
+----
+
 ### Boilerplates
 
 * [CLI with Click](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/boilerplates-click)
