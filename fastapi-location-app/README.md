@@ -1,7 +1,7 @@
 # Location API 🗺
 
 
-Location API deployed in Vercel and built with FastAPI.
+Location API built with FastAPI. [Deployed in Vercel](https://choices-location-api.vercel.app/).
 
 ## Endpoint /location
 
