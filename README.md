@@ -3,8 +3,7 @@
 
 ### APIs
 
-* [FastAPI Location API deployed in Vercel](github.com/bt3gl-labs/Scratch-Space-Python/tree/master/fastapi-location-api)
-
+* [FastAPI Location API deployed in Vercel](https://github.com/bt3gl-labs/Scratch-Space-Python/tree/master/fastapi-location-app)
 
 ### Boilerplates
 
