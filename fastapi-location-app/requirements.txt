@@ -1,0 +1,4 @@
+timezonefinder==5.2.0
+pytz==2022.1
+pydantic
+fastapi
