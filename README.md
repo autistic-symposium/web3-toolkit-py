@@ -34,9 +34,9 @@
 
 ### Useful tools and packages
 
-* [Black (code formatting)]()
-* [Flake8 (static code analysis]()
-* [Pre-commit]()
+* [Black (code formatting)](https://github.com/psf/black)
+* [Flake8 (static code analysis](https://flake8.pycqa.org/en/latest/)
+* [Pre-commit](https://pre-commit.com/)
 * [unittest](https://docs.python.org/3/library/unittest.html)
 * [nose](https://nose.readthedocs.io/en/latest/)
 * [tox](https://tox.wiki/en/latest/)
