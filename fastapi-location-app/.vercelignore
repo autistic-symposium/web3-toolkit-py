@@ -1,0 +1,5 @@
+requirements-dev.txt
+venv
+main.py
+README.md
+.gitignore
