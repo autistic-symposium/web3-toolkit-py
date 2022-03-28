@@ -27,7 +27,7 @@
 
 <br>
 
-### Use generators and keys for soring
+### Use generator
  
 - Generators dont' return ites such as iterators, but only one item at time.
 
