@@ -1,5 +1,10 @@
 ## Concurrency and Parallelism in Python
 
+<br>
+
+* [Read a detailed explanation on threads and multiprocessing in Python in my book](https://github.com/bt3gl-labs/Book-on-Python-and-Algorithms/blob/master/book/ebook_pdf/book_second_edition.pdf)
+
+<br>
 
 ### Threading
 
