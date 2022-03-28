@@ -15,7 +15,7 @@
 
 
 
-#### Multi-processing
+### Multi-processing
 
 * In multiprocessing, the original process is forked process into multiple child processes bypassing the GIL. 
 * Each child process will have a copy of the entire program's memory.
