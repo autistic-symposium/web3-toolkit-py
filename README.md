@@ -1,4 +1,4 @@
-# ✨🐍 [Scratch Space] Python: small projects and boilerplates 
+# ✨🐍 Python: small projects and boilerplates 
 
 
 ## Code in this repo
