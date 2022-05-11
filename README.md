@@ -32,10 +32,10 @@
 
 ----
 
-### Useful tools and packages
+### Useful tools, linters, and packages
 
-* [Black (code formatting)](https://github.com/psf/black)
-* [Flake8 (static code analysis](https://flake8.pycqa.org/en/latest/)
+* [Black](https://github.com/psf/black)
+* [Flake8 ](https://flake8.pycqa.org/en/latest/)
 * [Pre-commit](https://pre-commit.com/)
 * [unittest](https://docs.python.org/3/library/unittest.html)
 * [nose](https://nose.readthedocs.io/en/latest/)
@@ -47,5 +47,5 @@
 
 ## Good Readings
 
-* [Google Style Guide](https://google.github.io/styleguide/pyguide.html).
+* [Google Style Guide](https://google.github.io/styleguide/pyguide.html)
 
