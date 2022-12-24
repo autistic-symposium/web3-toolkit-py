@@ -1,1 +1,0 @@
-## Findng blob boundary
