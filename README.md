@@ -22,7 +22,7 @@
 * [magic pen](small-projects/magic-pen)
 * [maze puzzle](small-projects/maze-puzzle)
 * [parsing medium posts](small-projects/medium)
-* [encoding decimals](small-projects/enconding-decimals)
+* [encoding decimals](small-projects/enconding-decimals/)
 
 <br>
 
