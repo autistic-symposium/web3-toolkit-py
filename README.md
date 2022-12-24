@@ -5,16 +5,21 @@
 
 ### my [ongoing] web3 projects and templates 
 
-* [web3-python-toolkit](web3_python_toolkit)
-    - an on-going development of a library and set of python scripts with my fav on-chain ops.
+<br>
 
+* [📚 web3-python-toolkit](web3_python_toolkit)
+    - an ongoing development of a library and set of python scripts with my fav on-chain ops.
 
+* [🔬 check my blockchain-science](https://github.com/go-outside-labs/blockchain-science)
+    - a repo with several on-chain data research notebooks.
 
 <br>
 
 ---
 
 ### my [over the years] web2 projects and templates
+
+<br>
 
 #### side and fun projects
 
@@ -24,7 +29,6 @@
 * [parsing medium posts](small-projects/medium)
 * [encoding decimals](small-projects/enconding-decimals/)
 
-<br>
 
 #### boilerplates
 
@@ -36,7 +40,7 @@
 * [concurrency](boilerplates-concurrency)
 * [optimization](boilerplates-optimization)
 
-<br>
+
 
 #### tests
 
@@ -49,7 +53,9 @@
 
 ----
 
-### external resources
+### python resources
+
+<br>
 
 * [my book on python and algorithms](https://github.com/go-outside-labs/algorithms-book)
 * [google style guide](https://google.github.io/styleguide/pyguide.html)
