@@ -20,9 +20,9 @@
 
 * [finding a blob boundary](small-projects/finding-blob-boundary)
 * [magic pen](small-projects/magic-pen)
-* [maze puzzle](projects/maze-puzzle)
+* [maze puzzle](small-projects/maze-puzzle)
 * [parsing medium posts](small-projects/medium)
-* [encoding decimals](enconding-decimals)
+* [encoding decimals](small-projects/enconding-decimals)
 
 <br>
 
