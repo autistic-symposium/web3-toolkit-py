@@ -5,7 +5,7 @@
 
 ### my [ongoing] web3 projects and templates 
 
-* [web3-python-toolkit](web3-python-toolkit)
+* [web3-python-toolkit](web3_python_toolkit)
     - an on-going development of a library and set of python scripts with my fav on-chain ops.
 
 
