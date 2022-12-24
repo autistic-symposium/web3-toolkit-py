@@ -2,7 +2,7 @@
 
 ```
 chmod a+x <filename.py>
-./<filenamse.py>
+./<filename.py>
 ```
 
 or

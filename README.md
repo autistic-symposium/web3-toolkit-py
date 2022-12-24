@@ -1,52 +1,63 @@
-# ✨🐍 Python: small projects and boilerplates 
+## 🥷🏻🐍⛓️ mev python: playing pvp in the metaweb
+
+<br>
 
 
-## Code in this repo
+### my [ongoing] web3 projects and templates 
 
-### APIs
+* [web3-python-toolkit](web3-python-toolkit)
+    - an on-going development of a library and set of python scripts with my fav on-chain ops.
 
-* [FastAPI Location API deployed in Vercel](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/fastapi-location-app)
 
 
-### Boilerplates
+<br>
 
-* [CLI with Click](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/boilerplates-click)
-* [CLI with Argparse](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/boilerplates-argparse)
-* [Dashboards with Dash and Plot.ly](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/boilerplates-dash)
-* [Testing in Python](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/boilerplates-tests)
-* [Security examples](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/boilerplates-security)
-* [Concurrence examples](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/boilerplates-concurrence)
+---
 
-### Tests
+### my [over the years] web2 projects and templates
 
+#### side and fun projects
+
+* [finding a blob boundary](small-projects/finding-blob-boundary)
+* [magic pen](small-projects/magic-pen)
+* [maze puzzle](projects/maze-puzzle)
+* [parsing medium posts](small-projects/medium)
+* [encoding decimals](enconding-decimals)
+
+<br>
+
+#### boilerplates
+
+* [fast api](fastapi-location-app)
+* [click](boilerplates-click)
+* [argparse](boilerplates-argparse)
+* [dash + plot.ly](boilerplates-dash)
+* [security](boilerplates-security)
+* [concurrency](boilerplates-concurrency)
+* [optimization](boilerplates-optimization)
+
+<br>
+
+#### tests
+
+* [testing in python](boilerplates-tests)
 * [good example of unit tests suite I wrote](https://github.com/go-outside-labs/aws-pipeline/tree/master/tests)
 
 
-### Small projects
 
-* [encoding decimals](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/small-projects/enconding-decimals)
-* [finding a blob boundary](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/small-projects/finding-blob-boundary)
-* [magic pen](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/small-projects/magic-pen)
-* [maze puzzle](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/small-projects/maze-puzzle)
-* [parsing Medium posts](https://github.com/go-outside-labs/Scratch-Space-Python/tree/master/small-projects/medium)
-
+<br>
 
 ----
 
-### Useful tools, linters, and packages
+### external resources
 
-* [Black](https://github.com/psf/black)
-* [Flake8 ](https://flake8.pycqa.org/en/latest/)
-* [Pre-commit](https://pre-commit.com/)
+* [my book on python and algorithms](https://github.com/go-outside-labs/algorithms-book)
+* [google style guide](https://google.github.io/styleguide/pyguide.html)
+* [black](https://github.com/psf/black)
+* [flake8 ](https://flake8.pycqa.org/en/latest/)
+* [pre-commit](https://pre-commit.com/)
 * [unittest](https://docs.python.org/3/library/unittest.html)
 * [nose](https://nose.readthedocs.io/en/latest/)
 * [tox](https://tox.wiki/en/latest/)
 
-
-----
-
-
-## Good Readings
-
-* [Google Style Guide](https://google.github.io/styleguide/pyguide.html)
 
