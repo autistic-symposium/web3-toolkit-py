@@ -7,7 +7,7 @@
 
 <br>
 
-* [📚 web3-python-toolkit](web3_python_toolkit)
+* [📚 web3toolkit](web3toolkit)
     - an ongoing development of a library and set of python scripts with my fav on-chain ops.
 
 * [🔬 check my blockchain-science](https://github.com/go-outside-labs/blockchain-science)
