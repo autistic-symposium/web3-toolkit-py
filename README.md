@@ -5,6 +5,8 @@
 
 ### in this repo
 
+<br>
+
 #### my [ongoing] web3 projects and templates 
 
 <br>
@@ -48,6 +50,8 @@
 ----
 
 ### resources
+
+<br>
 
 ##### basics
 
