@@ -19,18 +19,6 @@
 
 <br>
 
-#### my [over the years] web2 projects and templates
-
-<br>
-
-* [finding a blob boundary](small-projects/finding-blob-boundary)
-* [magic pen](small-projects/magic-pen)
-* [maze puzzle](small-projects/maze-puzzle)
-* [parsing medium posts](small-projects/medium)
-* [encoding decimals](small-projects/enconding-decimals/)
-
-<br>
-
 #### boilerplates
 
 <br>
@@ -42,10 +30,27 @@
 * [security](boilerplates-security)
 * [concurrency](boilerplates-concurrency)
 * [optimization](boilerplates-optimization)
+* [orchestration](boilerplates-orchestration)
 * [testing in python](boilerplates-tests)
 * [good example of unit tests suite I wrote](https://github.com/go-outside-labs/aws-pipeline/tree/master/tests)
 
 <br>
+
+
+
+#### my [over the years] web2 projects and templates
+
+<br>
+
+* [blob boundary](small-projects/finding-blob-boundary)
+* [magic pen](small-projects/magic-pen)
+* [maze puzzle](small-projects/maze-puzzle)
+* [parsing medium blog](small-projects/medium)
+* [encoding and decoding](small-projects/enconding-decimals/)
+
+
+<br>
+
 
 ----
 
