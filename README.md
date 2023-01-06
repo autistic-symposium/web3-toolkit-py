@@ -32,7 +32,7 @@
 * [optimization](boilerplates-optimization)
 * [orchestration](boilerplates-orchestration)
 * [testing in python](boilerplates-tests)
-* [good example of unit tests suite I wrote](https://github.com/go-outside-labs/aws-pipeline/tree/master/tests)
+
 
 <br>
 
