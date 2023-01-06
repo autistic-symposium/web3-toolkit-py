@@ -23,15 +23,15 @@
 
 <br>
 
-* [fast api](fastapi-location-app)
 * [click](boilerplates-click)
+* [fast api](fastapi-location-app)
 * [argparse](boilerplates-argparse)
-* [dash + plot.ly](boilerplates-dash)
 * [security](boilerplates-security)
+* [unit tests](boilerplates-tests)
 * [concurrency](boilerplates-concurrency)
 * [optimization](boilerplates-optimization)
 * [orchestration](boilerplates-orchestration)
-* [testing in python](boilerplates-tests)
+* [dash + plot.ly](boilerplates-dash)
 
 
 <br>
@@ -42,9 +42,9 @@
 
 <br>
 
-* [blob boundary](small-projects/finding-blob-boundary)
 * [magic pen](small-projects/magic-pen)
 * [maze puzzle](small-projects/maze-puzzle)
+* [blob boundary](small-projects/finding-blob-boundary)
 * [parsing medium blog](small-projects/medium)
 * [encoding and decoding](small-projects/enconding-decimals/)
 
