@@ -3,13 +3,8 @@
 <br>
 
 
-### in this repo
+### my [ongoing] web3 projects and templates 
 
-<br>
-
-#### my [ongoing] web3 projects and templates 
-
-<br>
 
 * [📚 web3toolkit](web3toolkit)
     - an ongoing development of a library and set of python scripts with my fav on-chain ops.
@@ -19,7 +14,19 @@
 
 <br>
 
-#### boilerplates
+---
+
+### external web3 resources
+
+* [async web3py middleware for batching eth calls intos multicalls](https://github.com/BobTheBuidler/dank_mids)
+
+
+<br>
+
+
+---
+
+### [my old] boilerplates
 
 <br>
 
@@ -36,11 +43,10 @@
 
 <br>
 
+---
 
+### [my over the years] web2 projects and templates
 
-#### my [over the years] web2 projects and templates
-
-<br>
 
 * [magic pen](small-projects/magic-pen)
 * [maze puzzle](small-projects/maze-puzzle)
@@ -54,11 +60,8 @@
 
 ----
 
-### resources
+### general resources
 
-<br>
-
-##### basics
 
 * [black](https://github.com/psf/black)
 * [flake8 ](https://flake8.pycqa.org/en/latest/)
@@ -66,11 +69,6 @@
 * [unittest](https://docs.python.org/3/library/unittest.html)
 * [nose](https://nose.readthedocs.io/en/latest/)
 * [tox](https://tox.wiki/en/latest/)
-
-<br>
-
-##### learning
-
 * [my book on python and algorithms](https://github.com/go-outside-labs/algorithms-book)
 * [google style guide](https://google.github.io/styleguide/pyguide.html)
 
