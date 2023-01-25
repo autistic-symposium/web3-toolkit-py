@@ -33,7 +33,7 @@ def decode_calldata(data) -> dict:
                      network=data['network'])
   
     w3.get_pair_contract(address=data['contract_address'), abi=data['abi'))
-    return we.pair_contract.decode_function_input(data['calldata'])
+    return w3.pair_contract.decode_function_input(data['calldata'])
 
 
 if __name__ == "__main__":
