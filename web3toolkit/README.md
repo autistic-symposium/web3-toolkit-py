@@ -60,8 +60,22 @@ poetry run python get_reserve_history_by_block.py
 #### get deep block data
 
 1. add info to `.env`
-3. run 
-   `poetry run python get_deep_block_data.py`
+2. run 
+```
+cd scripts
+poetry run python get_deep_block_data.py
+```
+
+<br>
+
+#### decode calldata
+
+1. add info to `.env`
+2. run 
+```
+cd scripts
+poetry run python decode_calldata.py
+```
 
 
 

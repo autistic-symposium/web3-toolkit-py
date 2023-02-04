@@ -32,7 +32,7 @@ def decode_calldata(data) -> dict:
     w3 = Web3Wrapper(mode=data['provider_type'],
                      network=data['network'])
   
-    w3.get_pair_contract(address=data['contract_address'), abi=data['abi'))
+    w3.get_pair_contract(address=data['contract_address'], abi=data['abi'])
     return w3.pair_contract.decode_function_input(data['calldata'])
 
 
