@@ -7,12 +7,17 @@ an on-going development of a library and set of python scripts with my fav on-ch
 <br>
 
 
-### installing
+### setting up
+
+we use [poetry](https://python-poetry.org/docs/) to setup this package (config details at `pyproject.toml`).
+
+installing:
 
 ```
 brew install poetry
 make install
 cp .env.example .env
+vim .env
 ```
 
 
@@ -28,7 +33,10 @@ cp .env.example .env
 
 1. add info to `.env`
 2. run 
-   `poetry run python  get_contracts_deployed.py`
+```
+cd scripts
+poetry run python  get_contracts_deployed.py
+```
 3. any output is saved to `data/`.
 
 
@@ -38,10 +46,12 @@ cp .env.example .env
 
 #### get reserve history by block for a pair of addresses
 
-1. add the pair abi to `abi`
-2. add info to `.env`
-3. run 
-   `poetry run python get_reserve_history_by_block.py`
+1. add the pair abi to `abis/
+2. run 
+```
+cd scripts
+poetry run python get_reserve_history_by_block.py
+```
 
 
 
