@@ -24,7 +24,7 @@
 
 ---
 
-### some of my web2 code (have been pythoning since '14)
+### some of my web2 boileplates and code (been pythoning since '14)
 
 <br>
 
