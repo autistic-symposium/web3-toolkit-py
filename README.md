@@ -5,6 +5,8 @@
 
 ### my ongoing web3 projects and code 
 
+<br>
+
 
 * [📚 web3toolkit](web3toolkit)
     - an ongoing development of a library and set of python scripts with my fav on-chain ops.
@@ -49,6 +51,7 @@
 
 ### general links (just useful stuff)
 
+<br>
 
 * [black](https://github.com/psf/black)
 * [flake8 ](https://flake8.pycqa.org/en/latest/)
