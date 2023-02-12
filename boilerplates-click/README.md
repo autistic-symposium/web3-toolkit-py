@@ -1,4 +1,4 @@
-# Awesome Python CLI Boilerplate
+# Argpase / CLI Boilerplate
 
 A quick boilerplate when creating a new CLI apps/scripts in Python3.
 
