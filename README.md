@@ -3,28 +3,30 @@
 <br>
 
 
-### my ongoing web3 projects and code 
+### my web3 projects and code 
 
 <br>
 
 
-* [📚 web3toolkit](web3toolkit)
-    - an ongoing development of a library and set of python scripts with my fav on-chain ops.
+* [📚 web3toolkit](web3toolkit):
+    - an *ongoing* development of a library and set of python scripts with my fav on-chain ops.
 
-* [🔬 check my blockchain science repo](https://github.com/go-outside-labs/blockchain-science)
-    - a repo with several on-chain data research notebooks.
+* [🔬 check my blockchain science repo](https://github.com/go-outside-labs/blockchain-science):
+    - a repo with several on-chain data research notebooks, trading bots, and other shenanigans.
     
-* [🧮 check my published book on algorithms and data structures](https://github.com/go-outside-labs/algorithms-book-py)
-    - it's always good to actually understand those searches and sortings algorithms
+* [🧮 check my published book on algorithms and data structures](https://github.com/go-outside-labs/algorithms-book-py):
+    - it's always good to actually understand those searches and sortings algorithms. published in 2015.
     
 
+
+<br>
 
 <br>
 
 
 ---
 
-### some of my web2 boileplates and code (been pythoning since '14)
+### some of my old web2 boileplates and code (been pythoning since '14)
 
 <br>
 
