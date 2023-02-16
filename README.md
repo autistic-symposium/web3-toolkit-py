@@ -26,7 +26,7 @@
 
 ---
 
-### some of my old web2 boileplates and code (been pythoning since '14)
+### some of my old web2 code (pythoning since '14)
 
 <br>
 
@@ -61,7 +61,6 @@
 * [unittest](https://docs.python.org/3/library/unittest.html)
 * [nose](https://nose.readthedocs.io/en/latest/)
 * [tox](https://tox.wiki/en/latest/)
-* [my book on python and algorithms](https://github.com/go-outside-labs/algorithms-book)
 * [google style guide](https://google.github.io/styleguide/pyguide.html)
 * [async web3py middleware for batching eth calls intos multicalls](https://github.com/BobTheBuidler/dank_mids)
 
