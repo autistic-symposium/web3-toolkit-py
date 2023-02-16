@@ -2,10 +2,11 @@
 
 <br>
 
-an on-going development of a library and set of python scripts with my fav on-chain ops.
+#### 👉 *on-going* development of a library and set of python scripts with my fav on-chain ops.
 
 <br>
 
+---
 
 ### setting up
 
@@ -28,8 +29,11 @@ vim .env
 
 ### scripts
 
+<br>
 
 #### get contracts deployed to mainnet and testnets
+
+we leverage [ethereumetl](https://github.com/blockchain-etl/ethereum-etl) to extract this data.
 
 1. add info to `.env`
 2. run 
@@ -46,7 +50,7 @@ poetry run python  get_contracts_deployed.py
 
 #### get reserve history by block for a pair of addresses
 
-1. add the pair abi to `abis/
+1. add the pair abi to `abis/`
 2. run 
 ```
 cd scripts
@@ -85,6 +89,8 @@ poetry run python decode_calldata.py
 
 ### troubleshoot
 
+<br>
+
 ##### if you see `ethereum-etl not compatible to m1` run:
 
 ```
@@ -108,6 +114,8 @@ pip install --no-binary ethereum-etl
 ---
 
 ### relevant info
+
+<br>
 
 ##### providers
  

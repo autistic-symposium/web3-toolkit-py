@@ -3,7 +3,7 @@
 # author: steinkirch
 
 import pandas as pd
-from utils.os import exit_with_error
+from utils.os import exit_with_error, log_error
 
 
 def open_csv(filepath) -> dict:
@@ -27,5 +27,6 @@ def save_csv(destination, data, index=False) -> None:
 
 def plot_bar(y, x) -> None:
     """Simplest plot for two sets."""
+
     df = pd.DataFrame(y, index=x)
     df.plot.bar(rot=0, subplots=True)
