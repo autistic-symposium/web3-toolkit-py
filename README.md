@@ -8,13 +8,13 @@
 <br>
 
 
-* [📚 web3toolkit](web3toolkit):
+* [**📚 web3-toolkit-py**](web3toolkit):
     - an *ongoing* development of a library and set of python scripts with my fav on-chain ops.
 
-* [🔬 check my blockchain science repo](https://github.com/go-outside-labs/blockchain-science):
+* [**🔬 blockchain science repo**](https://github.com/go-outside-labs/blockchain-science):
     - a repo with several on-chain data research notebooks, trading bots, and other shenanigans.
     
-* [🧮 check my published book on algorithms and data structures](https://github.com/go-outside-labs/algorithms-book-py):
+* [**🧮 published book on algorithms and data structures**](https://github.com/go-outside-labs/algorithms-book-py):
     - it's always good to actually understand those searches and sortings algorithms. published in 2015.
     
 
