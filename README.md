@@ -3,30 +3,30 @@
 <br>
 
 
-### my [ongoing] web3 projects and templates 
-
-
-* [📚 web3toolkit](web3toolkit)
-    - an ongoing development of a library and set of python scripts with my fav on-chain ops.
-
-* [🔬 check my blockchain-science](https://github.com/go-outside-labs/blockchain-science)
-    - a repo with several on-chain data research notebooks.
-
-<br>
-
----
-
-### external web3 resources
-
-* [async web3py middleware for batching eth calls intos multicalls](https://github.com/BobTheBuidler/dank_mids)
-
+### my web3 projects and code 
 
 <br>
 
 
+* [📚 web3toolkit](web3toolkit):
+    - an *ongoing* development of a library and set of python scripts with my fav on-chain ops.
+
+* [🔬 check my blockchain science repo](https://github.com/go-outside-labs/blockchain-science):
+    - a repo with several on-chain data research notebooks, trading bots, and other shenanigans.
+    
+* [🧮 check my published book on algorithms and data structures](https://github.com/go-outside-labs/algorithms-book-py):
+    - it's always good to actually understand those searches and sortings algorithms. published in 2015.
+    
+
+
+<br>
+
+<br>
+
+
 ---
 
-### [my old] boilerplates
+### some of my old web2 boileplates and code (been pythoning since '14)
 
 <br>
 
@@ -39,15 +39,6 @@
 * [optimization](boilerplates-optimization)
 * [orchestration](boilerplates-orchestration)
 * [dash + plot.ly](boilerplates-dash)
-
-
-<br>
-
----
-
-### [my over the years] web2 projects and templates
-
-
 * [magic pen](small-projects/magic-pen)
 * [maze puzzle](small-projects/maze-puzzle)
 * [blob boundary](small-projects/finding-blob-boundary)
@@ -60,8 +51,9 @@
 
 ----
 
-### general resources
+### general links (just useful stuff)
 
+<br>
 
 * [black](https://github.com/psf/black)
 * [flake8 ](https://flake8.pycqa.org/en/latest/)
@@ -71,4 +63,5 @@
 * [tox](https://tox.wiki/en/latest/)
 * [my book on python and algorithms](https://github.com/go-outside-labs/algorithms-book)
 * [google style guide](https://google.github.io/styleguide/pyguide.html)
+* [async web3py middleware for batching eth calls intos multicalls](https://github.com/BobTheBuidler/dank_mids)
 

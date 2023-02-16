@@ -1,4 +1,4 @@
-# Awesome Python CLI Boilerplate
+# Click / CLI Boilerplate
 
 A quick boilerplate when creating a new CLI apps/scripts in Python3.
 
