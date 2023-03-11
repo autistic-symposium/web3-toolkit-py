@@ -3,7 +3,7 @@
 <br>
 
 
-### web3 projects and code 
+### my web3 projects and code 
 
 <br>
 
@@ -16,6 +16,12 @@
 * [**🔬 blockchain science repo**](https://github.com/go-outside-labs/blockchain-science):
     - a repo with several on-chain data research notebooks, trading bots, and other shenanigans.
     
+<br>
+
+* [**🛠 blockchain engineering repo**](https://github.com/go-outside-labs/blockchain-data-engineering):
+    - a repo with several scalable projects for blockchain big data, including a scalable event scanner.
+
+
 <br>
 
 * [**🧮 published book on algorithms and data structures**](https://github.com/go-outside-labs/algorithms-book-py):
