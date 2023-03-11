@@ -3,7 +3,7 @@
 <br>
 
 
-### my web3 projects and code 
+### go-outside-labs web3 projects 
 
 <br>
 
@@ -36,7 +36,7 @@
 
 ---
 
-### some of my old web2 code (pythoning since '14)
+### old web2 code (*pythoning since '14*)
 
 <br>
 
