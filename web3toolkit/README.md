@@ -83,6 +83,18 @@ poetry run python decode_calldata.py
 
 
 
+#### get token transfer events logs and wallet balances
+
+1. add info to `.env`
+2. run 
+```
+cd scripts
+poetry run python get_transfer_logs_and_wallets_balance_for_a_token.py
+```
+
+
+
+
 <br>
 
 ---
