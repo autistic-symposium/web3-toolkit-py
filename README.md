@@ -8,7 +8,7 @@
 <br>
 
 
-* [**📚 web3-toolkit-py**](web3toolkit):
+* [**📚 web3-toolkit-py**](web3-toolkit):
     - an *ongoing* development of a library and set of python scripts with my fav on-chain ops.
 
 <br>
@@ -53,12 +53,12 @@
 <br>
 
 * **web2 projects**:
-    * [fast api](web2_projects/fastapi-location-app)
-    * [magic pen](web2_projects/magic-pen)
-    * [maze puzzle](web2_projects/maze-puzzle)
-    * [blob boundary](web2_projects/finding-blob-boundary)
-    * [parsing medium posts](web2_projects/medium)
-    * [encoding, decoding](web2_projects//enconding-decimals/)
+    * [fast api](web2-projects/fastapi-location-app)
+    * [magic pen](web2-projects/magic-pen)
+    * [maze puzzle](web2-projects/maze-puzzle)
+    * [blob boundary](web2-projects/finding-blob-boundary)
+    * [parsing medium posts](web2-projects/medium)
+    * [encoding, decoding](web2-projects//enconding-decimals/)
 
 
 <br>
