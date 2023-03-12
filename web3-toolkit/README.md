@@ -81,6 +81,7 @@ cd scripts
 poetry run python decode_calldata.py
 ```
 
+<br>
 
 
 #### get token transfer events logs and wallet balances
@@ -93,6 +94,17 @@ poetry run python get_transfer_logs_and_wallets_balance_for_a_token.py
 ```
 
 
+<br>
+
+
+#### scrape transfer events for token data
+
+1. add info to `.env`
+2. run 
+```
+cd scripts
+poetry run python scrape_transfer_events.py
+```
 
 
 <br>
