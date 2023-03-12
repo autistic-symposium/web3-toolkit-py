@@ -66,7 +66,7 @@
 
 ----
 
-### more resources
+### external resources
 
 <br>
 
