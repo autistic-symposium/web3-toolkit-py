@@ -102,8 +102,8 @@ def get_transfer_logs(env_data: dict, address: str, decimals: int,
                             from_block=None, to_block=None, skip_chunks=False) -> list:
     """Get transfer logs from a given address between two blocks"""
 
-    from_block = from_block or 'earliest'
-    to_block = to_block or 'latest'
+    from_block = from_block or 1
+    to_block = to_block or get_last_block_number(url)
     topic = env_data['TRANSFER_EVENT_TOPIC_HASH']
     url = env_data['RPC_PROVIDER_URL']
 
@@ -113,12 +113,10 @@ def get_transfer_logs(env_data: dict, address: str, decimals: int,
     if not skip_chunks:
         
         logs = []
-        first_block = 1
         c_size = int(env_data['CHUNK_SIZE'])
         attempts = int(env_data['NUM_ATTEMPTS'])
-        last_block = get_last_block_number(url)
 
-        for block in range(first_block, last_block, c_size):
+        for block in range(from_block, to_block, c_size):
             attempt = 0
             while attempt < attempts:
                 try:
