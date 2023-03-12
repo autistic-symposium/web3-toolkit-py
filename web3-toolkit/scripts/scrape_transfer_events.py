@@ -83,10 +83,10 @@ def get_transaction_receipt(web3, tx_hash):
     return web3.eth.get_transaction_receipt(tx_hash)
 
 
-def get_block_timestamp(web3, block_number):
+def get_block(web3, block_number):
     """Get the timestamp for a given block number"""
     
-    return web3.eth.get_block(block_number)["timestamp"]
+    return web3.eth.get_block(block_number)
 
 
 def process_log(log, web3):
@@ -110,7 +110,7 @@ def process_log(log, web3):
     this_result['gas_used']  = int(tx_receipt['gasUsed'])
 
     # Get the block timestamp
-    block = get_block_timestamp(web3, this_result['block_number'])
+    block = get_block(web3, this_result['block_number'])
     print(f'Processing block {block}...')
     this_result['timestamp'] = block['timestamp']
 
@@ -149,7 +149,7 @@ def get_target_tx_data(env_vars, start_block=0):
         if logs is not None:
             for log in logs:
                 processed_tx.append(process_log(log, web3))
-                sleep(env_vars['SLEEP_TIME'])
+                sleep(float(env_vars['SLEEP_TIME']))
 
         start_block += chunk
         
