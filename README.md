@@ -31,35 +31,8 @@
 
 <br>
 
-<br>
-
-
----
-
-### older projects and resources
-
-<br>
-
-* **boilerplates**:
-    * [click](boilerplates/click)
-    * [argparse](boilerplates/argparse)
-    * [security](boilerplates/security)
-    * [unit tests](boilerplates/tests)
-    * [concurrency](boilerplates/concurrency)
-    * [optimization](boilerplates/optimization)
-    * [orchestration](boilerplates/orchestration)
-    * [dash + plot.ly](boilerplates/dash)
-
-<br>
-
-* **web2 projects**:
-    * [fast api](web2-projects/fastapi-location-app)
-    * [magic pen](web2-projects/magic-pen)
-    * [maze puzzle](web2-projects/maze-puzzle)
-    * [blob boundary](web2-projects/finding-blob-boundary)
-    * [parsing medium posts](web2-projects/medium)
-    * [encoding, decoding](web2-projects//enconding-decimals/)
-
+* [**🔥 projects, source code, and language tricks**](web2-projects):
+    - a decade of coding in python, some old projects, some tricks and notes.
 
 <br>
 
