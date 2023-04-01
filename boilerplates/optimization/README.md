@@ -57,8 +57,15 @@
 * rabbitmq or celert for job queues and exports
 
 
+<br>
 
+---- 
 
+### resources
+
+<br>
+
+* [google's knapsack](https://developers.google.com/optimization/pack/knapsack)
 
 
 
