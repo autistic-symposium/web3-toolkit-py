@@ -24,7 +24,7 @@
 
 <br>
 
-* [**🧮 published book on algorithms and data structures**](https://github.com/go-outside-labs/algorithms-book-py):
+* [**🧮 my book on algorithms and data structures (published by habit media)**](https://github.com/go-outside-labs/algorithms-book-py):
     - it's always good to actually understand those searches and sortings algorithms. published in 2015.
     
 
