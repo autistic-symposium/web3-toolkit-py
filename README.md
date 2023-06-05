@@ -43,20 +43,24 @@
 
 <br>
 
-##### general python
-
-* [black](https://github.com/psf/black)
-* [flake8 ](https://flake8.pycqa.org/en/latest/)
-* [pre-commit](https://pre-commit.com/)
-* [unittest](https://docs.python.org/3/library/unittest.html)
-* [nose](https://nose.readthedocs.io/en/latest/)
-* [tox](https://tox.wiki/en/latest/)
-* [google style guide](https://google.github.io/styleguide/pyguide.html)
+* **[🧊 my (light) implementation of libp2p](https://github.com/go-outside-labs/libp2p-light-py)**
 
 <br>
 
-##### web3 specific
+##### testing and linting
 
-* [async web3py](https://github.com/BobTheBuidler/dank_mids)
+* **[black](https://github.com/psf/black)**
+* **[flake8 ](https://flake8.pycqa.org/en/latest/)**
+* **[pre-commit](https://pre-commit.com/)**
+* **[unittest](https://docs.python.org/3/library/unittest.html)**
+* **[nose](https://nose.readthedocs.io/en/latest/)**
+* **[tox](https://tox.wiki/en/latest/)**
+* **[google style guide](https://google.github.io/styleguide/pyguide.html)**
+
+<br>
+
+##### web3-specific
+
+* **[async web3py](https://github.com/BobTheBuidler/dank_mids)**
     - middleware for batching eth calls intos multicalls.
 
