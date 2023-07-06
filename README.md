@@ -43,9 +43,6 @@
 
 <br>
 
-* **[🧊 my (light) implementation of libp2p](https://github.com/go-outside-labs/libp2p-light-py)**
-
-<br>
 
 ##### testing and linting
 
