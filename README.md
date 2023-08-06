@@ -3,7 +3,7 @@
 <br>
 
 
-### go-outside-labs web3 projects 
+### our projects 
 
 <br>
 
