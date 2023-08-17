@@ -1,4 +1,4 @@
-## 🥷🏻🐍⛓️ playing pvp in the metaweb: python edition
+## 🥷🏻🐍⛓️ 𝘄𝗲𝗯𝟯 python 
 
 <br>
 
