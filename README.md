@@ -3,12 +3,7 @@
 <br>
 
 
-### our projects 
-
-<br>
-
-
-* [**📚 web3-toolkit-py**](web3-toolkit):
+* [**📚 my web3 toolkit**](web3-toolkit):
     - an *ongoing* development of a library and set of python scripts with my fav on-chain ops.
 
 <br>
@@ -25,13 +20,13 @@
 <br>
 
 * [**🧮 my book on algorithms and data structures (published by habit media)**](https://github.com/go-outside-labs/algorithms-book-py):
-    - it's always good to actually understand those searches and sortings algorithms. published in 2015.
+    - it's always good to actually understand those searches and sortings algorithms.
     
 
 
 <br>
 
-* [**🔥 projects, source code, and language tricks**](web2-projects):
+* [**🔥 small projects, code, and language tricks**](web2-projects):
     - a decade of coding in python, some old projects, some tricks and notes.
 
 <br>
