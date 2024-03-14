@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 # This class implements an (ongoing) wrapper for web3 libs.
-# author: steinkirch
+# author: Mia Stein
 
 from web3 import Web3, HTTPProvider, WebsocketProvider, IPCProvider
 from web3.middleware import geth_poa_middleware

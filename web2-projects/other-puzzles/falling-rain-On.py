@@ -8,7 +8,7 @@ describing the height of each unit-width section of terrain, from left to
 right. Your solution will return the total amount of width-times-height
 retained by the terrain. You may assume that heights are non-negative integers.
 
-Solution by bt3gl
+Solution by Mia Stein
 '''
 
 def _create_wall_array(size) -> list:

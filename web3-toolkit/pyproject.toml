@@ -2,7 +2,7 @@
 name = "web3-python-toolkit"
 version = "0.1.0"
 description="toolkit for web3"
-authors=["bt3gl"]
+authors=["mia stein"]
 readme = "README.md"
 packages = [{include = "scripts"}]
 

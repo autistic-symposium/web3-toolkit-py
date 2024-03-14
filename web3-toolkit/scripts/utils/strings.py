@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 # This class implements string methods used by the other classes.
-# author: steinkirch
+# author: Mia Stein
 
 from pprint import PrettyPrinter
 

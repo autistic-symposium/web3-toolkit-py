@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # arithmetics.py
 # This class implements math methods used by the other classes.
-# author: steinkirch
+# author: Mia Stein
 
 
 from decimal import Decimal, getcontext

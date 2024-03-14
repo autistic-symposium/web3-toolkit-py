@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
-# author: steinkirch
+# author: Mia Stein
 
 from utils.strings import pprint
 from utils.os import load_config

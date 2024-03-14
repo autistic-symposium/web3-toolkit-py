@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
-# author: steinkirch
+# author: Mia Stein
 
 from utils.os import load_config, open_json, log_info
 from utils.web3_wrapper import Web3Wrapper

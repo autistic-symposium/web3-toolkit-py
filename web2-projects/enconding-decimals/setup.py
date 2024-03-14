@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     packages=find_packages(),
     include_package_data=True,
-    author='steinkirch',
+    author='Mia Stein',
     install_requires=[
     ],
     entry_points='''

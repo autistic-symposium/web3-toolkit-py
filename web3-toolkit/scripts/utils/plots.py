@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 # This class implements plot scripts
-# author: steinkirch
+# author: Mia Stein
 
 import pandas as pd
 from utils.os import exit_with_error, log_error
