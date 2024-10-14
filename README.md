@@ -9,7 +9,7 @@
 
 ----
 
-### other resources at the autistic symposium
+### other resources from the autistic symposium
 
 <br>
 
