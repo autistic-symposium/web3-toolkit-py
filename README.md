@@ -13,7 +13,7 @@
 
 <br>
 
-* [**blockchain-science-py)**](https://github.com/autistic-symposium/blockchain-science-py): several on-chain data research notebooks, trading bots, and other shenanigans
+* [**blockchain-science-py**](https://github.com/autistic-symposium/blockchain-science-py): several on-chain data research notebooks, trading bots, and other shenanigans
 * [**blockchain-infrastructure-design**](https://github.com/autistic-symposium/blockchain-infrastructure-design): several scalable projects for blockchain big data, including a scalable event scanner
 * [**master-algorithms-py**](https://github.com/autistic-symposium/master-algorithms-py): always good to understand those searches and sorting algorithms
 
